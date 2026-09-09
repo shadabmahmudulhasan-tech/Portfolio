@@ -3,5 +3,5 @@
 
 A modern single-page portfolio built with HTML, CSS and JavaScript.
 
-## Deploy with GitHub Pages
+
 
